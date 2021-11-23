@@ -10,7 +10,7 @@
 - A transaction could be created by any registered user.
 - Admin could update or delete any transaction.
 
-!['Admin Dashboard'](/imgs/admin-dashboard.png)
+![img 2](https://user-images.githubusercontent.com/86033480/143052427-28f7d995-be06-496c-a372-226ae8f925dd.png)
 
 **User Dashboard**  
 
