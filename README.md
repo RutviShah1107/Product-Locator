@@ -17,17 +17,18 @@
 - A registered user could view all the warehouses and transactions in the database. 
 - The user could only update or delete transactions which were created by him.
 
-!['User Dashboard'](/imgs/user-dashboard.png)
 
-!['Transaction'](/imgs/transaction.png)
+![img 3](https://user-images.githubusercontent.com/86033480/143052666-3b929812-e931-4a8c-9581-835f45c3ceea.png)
+
+![img 4](https://user-images.githubusercontent.com/86033480/143052678-07061adb-70a5-4af1-9dbd-7165d4258db9.png)
 
 **Warehouse (Arena) List**
 
-!['Warehouses'](/imgs/arena.png)
+![img 5](https://user-images.githubusercontent.com/86033480/143052688-f144649b-9784-4194-83f2-da1af813ee28.png)
 
 **Warehouse (Arena) Analytics**
 
-!['Analytics'](/imgs/arena-analytics.png)
+![img 6](https://user-images.githubusercontent.com/86033480/143052698-3e975c0e-62a6-47ca-b785-7f2916e73d08.png)
 
 ## Setting Up
 
