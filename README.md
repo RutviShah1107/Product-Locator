@@ -2,7 +2,7 @@
 
 **Login Page**
 
-!['Login Page'](/img 1.png)
+!['Login Page'](/imgs/login.png)
 
 **Admin Dashboard**  
  
