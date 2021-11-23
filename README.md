@@ -2,7 +2,7 @@
 
 **Login Page**
 
-!['Login Page'](/imgs/login.png)
+![img 1](https://user-images.githubusercontent.com/86033480/143051989-ef07914d-7500-4421-a6c8-7b7c9153db84.png)
 
 **Admin Dashboard**  
  
